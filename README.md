@@ -29,4 +29,4 @@ You may also be interested some of our related papers on data poisoning:
 
 ## About the authors
 
-This research work has been a collaboration between the [Resilient Information Systems Security (RISS) group](rissgroup.org) at [Imperial College London](https://www.imperial.ac.uk/) and the [Pattern Recognition and Applications (PRA) Lab](https://pralab.diee.unica.it/en) at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page). 
+This research work has been a collaboration between the [Resilient Information Systems Security (RISS) group](http://rissgroup.org/) at [Imperial College London](https://www.imperial.ac.uk/) and the [Pattern Recognition and Applications (PRA) Lab](https://pralab.diee.unica.it/en) at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page). 
